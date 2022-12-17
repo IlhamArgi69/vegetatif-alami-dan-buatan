@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/vegetasi-alami-dan-buatan/static/css/main.102bdd1e.css",
+    "main.js": "/vegetasi-alami-dan-buatan/static/js/main.e43c8764.js",
+    "static/media/Ornamen.png": "/vegetasi-alami-dan-buatan/static/media/Ornamen.a00c6d947daf65366cbe.png",
+    "static/media/song.mp3": "/vegetasi-alami-dan-buatan/static/media/song.2f33e35eaeea0d3c8bf7.mp3",
+    "static/media/home.png": "/vegetasi-alami-dan-buatan/static/media/home.01d805649043a94586d9.png",
+    "static/media/lampu.png": "/vegetasi-alami-dan-buatan/static/media/lampu.1569959c55a3ce7e63dd.png",
+    "static/media/cangkok.PNG": "/vegetasi-alami-dan-buatan/static/media/cangkok.7d7067f00a7bc37ac3d9.PNG",
+    "static/media/okulasi.PNG": "/vegetasi-alami-dan-buatan/static/media/okulasi.ff1a64367f480b858add.PNG",
+    "static/media/Ilustrasi1.png": "/vegetasi-alami-dan-buatan/static/media/Ilustrasi1.c4319f2877855ed0b6e5.png",
+    "static/media/Ilustrasi2.png": "/vegetasi-alami-dan-buatan/static/media/Ilustrasi2.f52c4b6f1ae0ec72115d.png",
+    "static/media/merunduk.PNG": "/vegetasi-alami-dan-buatan/static/media/merunduk.2eef182d09b6eeb5bda4.PNG",
+    "static/media/Ilustrasi3.png": "/vegetasi-alami-dan-buatan/static/media/Ilustrasi3.59e1b2fb4c8e00eb3872.png",
+    "static/media/mengenten.PNG": "/vegetasi-alami-dan-buatan/static/media/mengenten.9466345d589f6882e786.PNG",
+    "static/media/setek.PNG": "/vegetasi-alami-dan-buatan/static/media/setek.b47289d7b3dda9b774d6.PNG",
+    "static/media/profil.jpg": "/vegetasi-alami-dan-buatan/static/media/profil.7c22e24f8d596218c6fa.jpg",
+    "static/media/Tittle.png": "/vegetasi-alami-dan-buatan/static/media/Tittle.f91263a35d11bb910894.png",
+    "static/media/play.png": "/vegetasi-alami-dan-buatan/static/media/play.58296d0d2d06de7c199e.png",
+    "static/media/icon.png": "/vegetasi-alami-dan-buatan/static/media/icon.2d28e029b01c8973f367.png",
+    "static/media/settingNavbar.svg": "/vegetasi-alami-dan-buatan/static/media/settingNavbar.187716ed92684bb60917d19e80206463.svg",
+    "static/media/InfoButton.png": "/vegetasi-alami-dan-buatan/static/media/InfoButton.f60c12cc25d1f3e5154e.png",
+    "static/media/menu.svg": "/vegetasi-alami-dan-buatan/static/media/menu.6123894f9978b63b83ce63ff440fa31e.svg",
+    "static/media/sfx.svg": "/vegetasi-alami-dan-buatan/static/media/sfx.05fe70924b8151e43dad9c3b743c2be8.svg",
+    "static/media/music1.svg": "/vegetasi-alami-dan-buatan/static/media/music1.6f23911c10b61d2d20e60e4226a5d294.svg",
+    "static/media/sfx1.svg": "/vegetasi-alami-dan-buatan/static/media/sfx1.a0775fcc40fb53efcb5cad4d1158a370.svg",
+    "static/media/sfx.mp3": "/vegetasi-alami-dan-buatan/static/media/sfx.e0d5f54546859eb72328.mp3",
+    "static/media/ArrowLeft.svg": "/vegetasi-alami-dan-buatan/static/media/ArrowLeft.75d07789a353ae3928695301c37c7f20.svg",
+    "static/media/ArrowRight.svg": "/vegetasi-alami-dan-buatan/static/media/ArrowRight.a61996aca19c594fb4dbf10c5ef46edf.svg",
+    "static/media/XIcon.svg": "/vegetasi-alami-dan-buatan/static/media/XIcon.2cbebff293084e2f56e1abb69dde5b4b.svg",
+    "static/media/homeIcon.svg": "/vegetasi-alami-dan-buatan/static/media/homeIcon.916af5b5fc325279c79988cf496ecf4e.svg",
+    "static/media/music.svg": "/vegetasi-alami-dan-buatan/static/media/music.ac1edca0bd70244ed329eb977ffbf5e4.svg",
+    "index.html": "/vegetasi-alami-dan-buatan/index.html",
+    "main.102bdd1e.css.map": "/vegetasi-alami-dan-buatan/static/css/main.102bdd1e.css.map",
+    "main.e43c8764.js.map": "/vegetasi-alami-dan-buatan/static/js/main.e43c8764.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.102bdd1e.css",
+    "static/js/main.e43c8764.js"
+  ]
+}
