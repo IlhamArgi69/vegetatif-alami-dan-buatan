@@ -1,0 +1,59 @@
+
+.CardContainer {
+    background: transparent;
+    top: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.CardContainer h2 {
+    color: black;
+    text-align: center;
+    background:#F9C80E;
+    font-size: 30px;
+    font-weight: 800;
+    padding: 10px;
+    border: 4px solid  black ;
+    box-shadow: -6px 6px 0px 1px rgba(0,0,0,1);
+}
+
+.cardTittle {
+    margin-top: 20px;
+    width: 85%;
+    padding: 2px;
+    
+
+
+}
+
+
+.ArrowContainer {
+    margin-bottom: 30px;
+}
+
+.ListContainer {
+    display: flex;
+    width: 90%;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 10px;
+    background: #F9C80E;
+    border: 4px solid black ;
+    height: 50vh;
+    overflow-y: scroll;
+    box-shadow: -6px 6px 0px 1px rgba(0,0,0,1);
+}
+
+.ListContainer button {
+    margin-top: 25px;
+    width: 80%;
+    background: #F86624 ;
+    border: 4px solid black ;
+    color: white;
+    box-shadow: -6px 6px 0px 1px rgba(0,0,0,1);
+}
+
+

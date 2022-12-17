@@ -1,0 +1,56 @@
+
+.ScreenContainer {
+    height: 100vh;
+    background: transparent;
+
+}
+
+.NickContainer {
+    background: transparent;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 30%;
+}
+
+.NickContainer h1 {
+    background: transparent;
+    line-height: 0px;
+}
+
+.NameForm {
+    background: transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.NameForm input {
+    background: #F9C80E;
+    color: white;
+    font-weight: 600;
+    font-size: 25px;
+    width: 230px;
+    height: 40px;
+    text-align: center;
+    border: 5px solid #283618;
+    text-transform:capitalize;
+    letter-spacing: 2px;
+    box-shadow: -6px 6px 0px 1px rgba(0,0,0,1);
+}
+
+
+.Mulai {
+    margin-top: 60px;
+    width: 80%;
+
+}
+
+
+
+
+
+
