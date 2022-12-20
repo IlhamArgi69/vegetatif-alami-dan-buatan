@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/vegetatif-alami-dan-buatan/static/css/main.d0b5f456.css",
+    "main.css": "/vegetatif-alami-dan-buatan/static/css/main.76a84f98.css",
     "main.js": "/vegetatif-alami-dan-buatan/static/js/main.ccbef207.js",
     "static/media/Ornamen.png": "/vegetatif-alami-dan-buatan/static/media/Ornamen.a00c6d947daf65366cbe.png",
     "static/media/song.mp3": "/vegetatif-alami-dan-buatan/static/media/song.2f33e35eaeea0d3c8bf7.mp3",
@@ -31,11 +31,11 @@
     "static/media/homeIcon.svg": "/vegetatif-alami-dan-buatan/static/media/homeIcon.916af5b5fc325279c79988cf496ecf4e.svg",
     "static/media/music.svg": "/vegetatif-alami-dan-buatan/static/media/music.ac1edca0bd70244ed329eb977ffbf5e4.svg",
     "index.html": "/vegetatif-alami-dan-buatan/index.html",
-    "main.d0b5f456.css.map": "/vegetatif-alami-dan-buatan/static/css/main.d0b5f456.css.map",
+    "main.76a84f98.css.map": "/vegetatif-alami-dan-buatan/static/css/main.76a84f98.css.map",
     "main.ccbef207.js.map": "/vegetatif-alami-dan-buatan/static/js/main.ccbef207.js.map"
   },
   "entrypoints": [
-    "static/css/main.d0b5f456.css",
+    "static/css/main.76a84f98.css",
     "static/js/main.ccbef207.js"
   ]
 }
