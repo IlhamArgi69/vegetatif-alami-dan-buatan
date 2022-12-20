@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/vegetatif-alami-dan-buatan/static/css/main.76a84f98.css",
-    "main.js": "/vegetatif-alami-dan-buatan/static/js/main.ccbef207.js",
+    "main.css": "/vegetatif-alami-dan-buatan/static/css/main.430d8f3d.css",
+    "main.js": "/vegetatif-alami-dan-buatan/static/js/main.d69c9249.js",
     "static/media/Ornamen.png": "/vegetatif-alami-dan-buatan/static/media/Ornamen.a00c6d947daf65366cbe.png",
     "static/media/song.mp3": "/vegetatif-alami-dan-buatan/static/media/song.2f33e35eaeea0d3c8bf7.mp3",
     "static/media/home.png": "/vegetatif-alami-dan-buatan/static/media/home.01d805649043a94586d9.png",
@@ -14,7 +14,7 @@
     "static/media/Ilustrasi3.png": "/vegetatif-alami-dan-buatan/static/media/Ilustrasi3.59e1b2fb4c8e00eb3872.png",
     "static/media/mengenten.PNG": "/vegetatif-alami-dan-buatan/static/media/mengenten.9466345d589f6882e786.PNG",
     "static/media/setek.PNG": "/vegetatif-alami-dan-buatan/static/media/setek.b47289d7b3dda9b774d6.PNG",
-    "static/media/Tittle.png": "/vegetatif-alami-dan-buatan/static/media/Tittle.2f8982217e0d1cc90e70.png",
+    "static/media/Tittle.png": "/vegetatif-alami-dan-buatan/static/media/Tittle.a229019ed046da33b79d.png",
     "static/media/profil.jpg": "/vegetatif-alami-dan-buatan/static/media/profil.7c22e24f8d596218c6fa.jpg",
     "static/media/play.png": "/vegetatif-alami-dan-buatan/static/media/play.58296d0d2d06de7c199e.png",
     "static/media/icon.png": "/vegetatif-alami-dan-buatan/static/media/icon.2d28e029b01c8973f367.png",
@@ -31,11 +31,11 @@
     "static/media/homeIcon.svg": "/vegetatif-alami-dan-buatan/static/media/homeIcon.916af5b5fc325279c79988cf496ecf4e.svg",
     "static/media/music.svg": "/vegetatif-alami-dan-buatan/static/media/music.ac1edca0bd70244ed329eb977ffbf5e4.svg",
     "index.html": "/vegetatif-alami-dan-buatan/index.html",
-    "main.76a84f98.css.map": "/vegetatif-alami-dan-buatan/static/css/main.76a84f98.css.map",
-    "main.ccbef207.js.map": "/vegetatif-alami-dan-buatan/static/js/main.ccbef207.js.map"
+    "main.430d8f3d.css.map": "/vegetatif-alami-dan-buatan/static/css/main.430d8f3d.css.map",
+    "main.d69c9249.js.map": "/vegetatif-alami-dan-buatan/static/js/main.d69c9249.js.map"
   },
   "entrypoints": [
-    "static/css/main.76a84f98.css",
-    "static/js/main.ccbef207.js"
+    "static/css/main.430d8f3d.css",
+    "static/js/main.d69c9249.js"
   ]
 }
